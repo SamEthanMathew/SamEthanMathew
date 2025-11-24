@@ -28,7 +28,7 @@ I love building things that move, see, and help people — from robot arms and p
 
 ###
 
-### Tech stack (ordered by what I use most)
+### Tech stacks
 <div align="left">
   <!-- Core Robotics / ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -51,8 +51,8 @@ I love building things that move, see, and help people — from robot arms and p
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
   <img width="12" />
-
-  <br/><img height="8"/>
+  
+</br>
 
   <!-- Infra / tooling -->
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
@@ -74,7 +74,7 @@ I love building things that move, see, and help people — from robot arms and p
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
   <img width="12" />
 
-  <br/><img height="8"/>
+  <br/>
 
   <!-- Web / product building -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
@@ -98,7 +98,7 @@ I love building things that move, see, and help people — from robot arms and p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
   <img width="12" />
 
-  <br/><img height="8"/>
+  <br/>
 
   <!-- Other / occasional -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
