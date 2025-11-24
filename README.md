@@ -1,9 +1,9 @@
-<h2 align="left">Hello World! My name is Sam I'm from Cupertino, CA studying at Carnegie Mellon University.</h2>
+<h2 align="left">Hello World! :)</h2>
 
 ###
 
 <p align="left">
-I’m a first-year at CMU working at the intersection of <b>robotics</b>, <b>machine learning</b>, and <b>real-world systems</b>.  
+I’m a first-year student at Carnegie Mellon University working at the intersection of <b>robotics</b>, <b>machine learning</b>, and <b>real-world systems</b>.  
 I love building things that move, see, and help people — from robot arms and perception models to product-focused apps.
 </p>
 
