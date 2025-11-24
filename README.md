@@ -143,6 +143,10 @@ I love building things that move, see, and help people — from robot arms and p
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SamEthanMathew/SamEthanMathew/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamEthanMathew/SamEthanMathew/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamEthanMathew/SamEthanMathew/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamEthanMathew/SamEthanMathew/output/snake.svg">
+</picture>
 
 
