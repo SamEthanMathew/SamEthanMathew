@@ -16,7 +16,7 @@ I love building things that move, see, and help people — from robot arms and p
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tkMTZ4c3NiYjQ2bzVvdmp0YWtvejlwdGdraDA1M2I3Ym41Zmt0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rh0btaKsTkIIrls5yT/giphy.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXZkeXB0ajZnazNtemE4cDdwa2N5aXVxZzdtbnp3eWh2MHRpdmUyeCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/Cmr1OMJ2FN0B2/giphy.gif" />
 
 ###
 
