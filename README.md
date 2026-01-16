@@ -8,10 +8,10 @@
 />
 
 <p align="left">
-I’m a first-year student at Carnegie Mellon University working at the intersection of
+I’m a first-year student at Carnegie Mellon University, working at the intersection of
 <b>robotics</b>, <b>machine learning</b>, and <b>real-world systems</b>.
-I love building things that move, see, and help people — from robot arms and perception models
-to product-focused apps.
+I love building things that move, see, and help people — from autonomous cars and perception models
+to end-to-end products that make a difference in our daily activities.
 </p>
 <br>
 
