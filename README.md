@@ -15,25 +15,13 @@ to product-focused apps.
 </p>
 <br>
 
-<hr/>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SamEthanMathew&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="150"
-    alt="GitHub stats"
-  />
-</div>
-
-<hr/>
-
 <h3>What I’m working on</h3>
 
 <ul>
-  <li><b>Robot motion planning & perception</b> (OMPL, OpenCV, RL, RGB-D)</li>
-  <li><b>SO-100 assistive robot arms</b> with voice + emotion-aware interaction (ROS2 / Gazebo)</li>
-  <li><b>Affordance & Pose Prediction for Articulated Objects</b> (PyTorch, RGB-D)</li>
-  <li><b>Indoor autonomous 3D mapping drone</b> (Raspberry Pi 5, PX4, 3D reconstruction)</li>
+<li><b>CMU RoboClub robot dog platform</b> (legged robotics, autonomy + perception)</li>
+<li><b>Vision-Language-Action (VLA) training</b> for robot manipulation (LeRobot / imitation learning, PyTorch)</li>
+<li><b>Assistive robot for disabilities</b>: voice-controlled + emotion-aware interaction (SO-100 arm, ROS2 / Gazebo)</li>
+<li><b>Affordance & pose prediction for articulated objects</b> from RGB-D (PyTorch)</li>
 </ul>
 
 <hr/>
