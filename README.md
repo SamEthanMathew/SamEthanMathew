@@ -15,15 +15,6 @@ to end-to-end products that make a difference in our daily activities.
 </p>
 <br>
 
-<h3>What I’m working on</h3>
-
-<ul>
-<li><b>CMU RoboClub robot dog platform</b> (legged robotics, autonomy + perception)</li>
-<li><b>Vision-Language-Action (VLA) training</b> for robot manipulation (LeRobot / imitation learning, PyTorch)</li>
-<li><b>Assistive robot for disabilities</b>: voice-controlled + emotion-aware interaction (SO-100 arm, ROS2 / Gazebo)</li>
-<li><b>Affordance & pose prediction for articulated objects</b> from RGB-D (PyTorch)</li>
-</ul>
-
 <hr/>
 
 <h3>Core tech stack (ML / Robotics / Systems)</h3>
