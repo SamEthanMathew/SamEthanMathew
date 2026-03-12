@@ -11,7 +11,7 @@
 I’m a first-year student at Carnegie Mellon University, working at the intersection of
 <b>robotics</b>, <b>machine learning</b>, and <b>real-world systems</b>.
 I love building things that move, see, and help people — from autonomous cars and perception models
-to end-to-end products that make a difference in our daily activities.
+to end-to-end products that make a difference in our daily activities. Currently, I am really interested in AI/ML systems that utilize Vision and Language to complete specific tasks.
 </p>
 <br>
 
