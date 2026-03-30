@@ -22,11 +22,13 @@
 
 ## ⚡ about me
 
-<img align="right" height="130" alt="coding animation" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
+<img align="right" height="110" style="margin-left: 16px;" alt="coding animation" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
 I'm a researcher and developer at **Carnegie Mellon University**, currently working in the **[R-PAD Lab](https://r-pad.github.io/)** (Robot Perceiving and Doing) at CMU's **Robotics Institute** — at the intersection of **Vision-Language Models** and **Embodied AI**, building systems that don't just see the world, but *reason* through it to complete complex tasks.
 
 Outside the lab, I apply ML to **quantitative finance** (Kalshi prediction markets, weather derivatives) and push the limits in **competitive hackathons**.
+
+> 🏢 **prev @** [SoloTech](https://www.getsolo.tech/) — built Speech-to-ROS2 pipelines bridging natural language to real-time robot control.
 
 <br clear="both"/>
 
@@ -36,10 +38,10 @@ Outside the lab, I apply ML to **quantitative finance** (Kalshi prediction marke
 
 | Project | Description |
 |---|---|
-| 🤖 **Embodied AI Research** | Investigating VLM architectures for zero-shot task completion & semantic reasoning in robotic agents |
-| 📈 **Quantitative Trading** | Autonomous alpha-seeking algorithms for Kalshi prediction markets & weather derivatives |
-| 🏎️ **Autonomous Racing** | Perception-to-control pipelines for F1/10th high-speed autonomous vehicles |
-| 🐕 **ScottyLabs — Labrador** | Lead Programmer for CMU's premier campus-wide technical infrastructure |
+|**Embodied AI Research** | Investigating VLM architectures for zero-shot task completion & semantic reasoning in robotic agents |
+|**Quantitative Trading** | Autonomous alpha-seeking algorithms for Kalshi prediction markets & weather derivatives |
+|**Autonomous Racing** | Perception-to-control pipelines for F1/10th high-speed autonomous vehicles |
+|**ScottyLabs — Labrador** | Programmer for CMU's campus-wide technical infrastructure building Universify |
 
 ---
 
@@ -49,10 +51,10 @@ Outside the lab, I apply ML to **quantitative finance** (Kalshi prediction marke
 
 | Event | Result |
 |---|---|
-| **ProdHacks** | 🥇 1st Place Overall + People's Choice Award |
-| **MIT Hard Mode** | 🎯 Selected — 1 of 100 global invitees |
-| **Poker AI Hacks** | ♠️ Engineered "Gear Shift" GTO-based agent unpredictability |
-| **TartanHacks / VentureHacks** | ⚡ End-to-end ML products in 24–48h sprints |
+| **ProdHacks** |1st Place Overall + People's Choice Award |
+| **MIT Hard Mode** |Selected — 1 of 100 global invitees |
+| **Poker AI Hacks** |Engineered "Gear Shift" GTO-based agent unpredictability |
+| **TartanHacks / VentureHacks** |End-to-end ML products in 24–48h sprints |
 
 </div>
 
