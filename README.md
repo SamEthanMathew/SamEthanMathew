@@ -24,7 +24,7 @@
 
 <img align="right" height="130" alt="coding animation" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
-I'm a researcher and developer at **Carnegie Mellon University** working at the intersection of **Vision-Language Models** and **Embodied AI** — building systems that don't just see the world, but *reason* through it to complete complex tasks.
+I'm a researcher and developer at **Carnegie Mellon University**, currently working in the **[R-PAD Lab](https://r-pad.github.io/)** (Robot Perceiving and Doing) at CMU's **Robotics Institute** — at the intersection of **Vision-Language Models** and **Embodied AI**, building systems that don't just see the world, but *reason* through it to complete complex tasks.
 
 Outside the lab, I apply ML to **quantitative finance** (Kalshi prediction markets, weather derivatives) and push the limits in **competitive hackathons**.
 
@@ -126,23 +126,14 @@ Outside the lab, I apply ML to **quantitative finance** (Kalshi prediction marke
 
 ## 📊 github stats
 
-<!-- Trophy Score Board -->
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SamEthanMathew&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</div>
-
-<br/>
-
 <!-- Profile Summary Cards -->
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamEthanMathew&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamEthanMathew&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamEthanMathew&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamEthanMathew&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamEthanMathew&theme=tokyonight&utcOffset=-5" />
 </div>
 
 <br/>
