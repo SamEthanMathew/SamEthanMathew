@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Building+robots+that+reason%2C+not+just+see+%F0%9F%A4%96;VLMs+%2B+Embodied+AI+%E2%80%94+zero-shot+task+completion;Quant+on+Kalshi+markets+%26+weather+derivatives+%F0%9F%93%88;F1%2F10th+autonomous+racing+%E2%80%94+perception+to+control+%F0%9F%8F%8E%EF%B8%8F;Hackathon+champion+%C2%B7+CMU+ScottyLabs+%C2%B7+open+source" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Building+robots+that+reason%2C+not+just+see+%F0%9F%A4%96;VLMs+%2B+Embodied+AI+%E2%80%94+zero-shot+task+completion;Quant+on+Kalshi+markets+%26+weather+derivatives+%F0%9F%93%88;F1%2F10th+autonomous+racing+%E2%80%94+perception+to+control+%F0%9F%8F%8E%EF%B8%8F;Avid+Hacker+%C2%B7+CMU+ScottyLabs+%C2%B7+open+source" />
   </a>
 </div>
 
