@@ -126,17 +126,35 @@ Outside the lab, I apply ML to **quantitative finance** (Kalshi prediction marke
 
 ## 📊 github stats
 
+<!-- Trophy Score Board -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SamEthanMathew&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamEthanMathew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SamEthanMathew&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
+<br/>
+
+<!-- Profile Summary Cards -->
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamEthanMathew&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamEthanMathew&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamEthanMathew&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamEthanMathew&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamEthanMathew&theme=tokyonight&utcOffset=-5" />
+</div>
+
+<br/>
+
+<!-- Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SamEthanMathew&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 <br/>
 
+<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamEthanMathew&bg_color=0d1117&color=6ad3f7&line=1f6feb&point=6ad3f7&area=true&hide_border=true" />
 </div>
