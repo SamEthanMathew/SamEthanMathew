@@ -25,8 +25,8 @@
 <img align="right" height="110" style="margin-left: 16px;" alt="coding animation" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
 I'm a researcher and developer at **Carnegie Mellon University**, currently working in the **[R-PAD Lab](https://r-pad.github.io/)** (Robot Perceiving and Doing) at CMU's **Robotics Institute** — at the intersection of **Vision-Language Models** and **Embodied AI**, building systems that don't just see the world, but *reason* through it to complete complex tasks.
-
-Outside the lab, I apply ML to **quantitative finance** (Kalshi prediction markets, weather derivatives) and push the limits in **competitive hackathons**.
+Outside the lab, I apply ML to 
+**quantitative finance** (Kalshi prediction markets, weather derivatives) and push the limits in **competitive hackathons**.
 
 > 🏢 **prev @** [SoloTech](https://www.getsolo.tech/) — built Speech-to-ROS2 pipelines bridging natural language to real-time robot control.
 
