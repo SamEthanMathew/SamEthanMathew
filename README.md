@@ -56,7 +56,7 @@ and push the limits in **competitive hackathons**.
 |---|---|
 | **CMU ProdHacks** |1st Place Overall + People's Choice Award |
 | **MIT Hard Mode** |Selected — 1 of 100 global invitees |
-| **CMU AI Agents Hackathon** | Most Ambitious Project |
+| **CMU AI Agents Hackathon** | Won Most Ambitious Project |
 | **CMU Poker AI Hacks** |Engineered "Gear Shift" GTO-based agent unpredictability |
 | **TartanHacks / VentureHacks** |End-to-end ML products in 24–48h sprints |
 
