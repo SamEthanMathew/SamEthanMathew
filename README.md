@@ -54,9 +54,10 @@ and push the limits in **competitive hackathons**.
 
 | Event | Result |
 |---|---|
+| **NVIDIA Physical AI Sprint Hackathon** |1st Place |
 | **CMU ProdHacks** |1st Place Overall + People's Choice Award |
 | **MIT Hard Mode** |Selected — 1 of 100 global invitees |
-| **CMU AI Agents Hackathon** | Won Most Ambitious Project |
+| **CMU AI Agents Hackathon** | Won Most Ambitious Project (2nd Place) |
 | **CMU Poker AI Hacks** |Engineered "Gear Shift" GTO-based agent unpredictability |
 | **TartanHacks / VentureHacks** |End-to-end ML products in 24–48h sprints |
 
